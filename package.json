@@ -4,7 +4,7 @@
     "description": "Chat application using sockets.",
     "dependencies": {
         "cookie-parser": "^1.4.4",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "package.json": "^2.0.1",
         "socket.io": "^2.3.0"
     }
